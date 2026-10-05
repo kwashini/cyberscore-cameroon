@@ -1,1 +1,1 @@
-window.CYBERSCORE_API = window.CYBERSCORE_API || '/api';
+window.CYBERSCORE_API =" https://cyberscore-api.onrender.com";

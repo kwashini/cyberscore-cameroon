@@ -1,0 +1,1 @@
+window.CYBERSCORE_API = window.CYBERSCORE_API || '/api';
